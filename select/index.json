@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Can Do",
+  "base_artist": "GRANRODEO",
+  "createdAt": "2026-03-11T08:31:36.386385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nothing I Can Do About It Now",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Nothing_I_Can_Do_About_It_Now_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing I Can Do About It Now (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/02_Nothing_I_Can_Do_About_It_Now_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What A Song Can Do",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/03_What_A_Song_Can_Do_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What A Song Can Do",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/04_What_A_Song_Can_Do_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What A Song Can Do",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/05_What_A_Song_Can_Do_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Can Do You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/06_You_Can_Do_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Can Do You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/07_You_Can_Do_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can Do Better",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/08_I_Can_Do_Better_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can Do Better - Acoustic Version",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/09_I_Can_Do_Better_-_Acoustic_Version_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can Do Better [Acoustic]",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/10_I_Can_Do_Better_[Acoustic]_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Can't Go For That (No Can Do)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/11_I_Can't_Go_For_That_(No_Can_Do)_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don't Think I Can Do This Again",
+      "artist": "Mura Masa feat. Clairo",
+      "has_synced": true,
+      "path": "select/12_I_Don't_Think_I_Can_Do_This_Again_Mura_Masa_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Think I Can Do This Again",
+      "artist": "Mura Masa & Clairo",
+      "has_synced": true,
+      "path": "select/13_I_Don't_Think_I_Can_Do_This_Again_Mura_Masa_&_Clairo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All I Can Do",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_All_I_Can_Do_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All I Can Do",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/15_All_I_Can_Do_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All I Can Do Is Write About It (Acoustic Version) (1991 Box Set)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/16_All_I_Can_Do_Is_Write_About_It_(Acoustic_Version)_(1991_Box_Set)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Can do it",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/17_Can_do_it_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You Can Do It",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/18_You_Can_Do_It_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "It Can Be Done but Only I Can Do It",
+      "artist": "Omar-S",
+      "has_synced": false,
+      "path": "select/19_It_Can_Be_Done_but_Only_I_Can_Do_It_Omar-S.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can Do",
+      "artist": "GRANRODEO",
+      "has_synced": false,
+      "path": "select/pl_01_Can_Do_GRANRODEO.txt"
+    }
+  ]
+}
