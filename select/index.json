@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Can Do",
   "base_artist": "GRANRODEO",
-  "createdAt": "2026-03-11T08:31:36.386385Z",
+  "createdAt": "2026-04-04T15:02:31.162481Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,6 +163,15 @@
       "artist": "GRANRODEO",
       "has_synced": false,
       "path": "select/pl_01_Can_Do_GRANRODEO.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Can Do",
+      "artist": "GRANRODEO",
+      "has_synced": false,
+      "path": "select/localdb_01_Can_Do_GRANRODEO.txt",
+      "repo_name": "1tAfPM6BZ9Y"
     }
   ]
 }
